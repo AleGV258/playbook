@@ -9,7 +9,6 @@
         Logger: [class Logger],
         log: [Function: log]
     }
-
 */
 
 // exports a function
