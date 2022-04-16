@@ -19,7 +19,7 @@ En la semana 1 se trabajaron los temas:
 10. Ejercicio
 
 - **En este directorio podrás encontrar:**
-	- [example1](./example1/)
+    - [example1](./example1/)
     - [example2](./example2/)
     - [example3](./example3/)
     - [example4](./example4/)
