@@ -11,7 +11,7 @@ Objetivo: Este repositorio son ejercicios realizados y contestados por AleGV258 
 
 Propietario: Este repositorio pertenece a Michell Alejandro García Vargas.
 
-GitHub: @AleGV258
+GitHub: [@AleGV258](https://github.com/AleGV258)
 
 Correo: ale.gv258@gmail.com
 
