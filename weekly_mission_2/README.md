@@ -2,7 +2,7 @@
 
 **Ejercicios realizados por Michell Alejandro García Vargas**
 
-En este directorio podrás encontrar en diversos sub-directorios y archivos las actividades de BackEnd-Mision para LaunchX del Weekly Mission 2.
+En este directorio podrás encontrar en diversos sub-directorios y archivos de las actividades de BackEnd-Mision para LaunchX del Weekly Mission 2.
 
 En la semana 2 se trabajaron los temas:
 
