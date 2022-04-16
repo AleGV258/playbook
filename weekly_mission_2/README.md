@@ -2,18 +2,18 @@
 
 **Ejercicios realizados por Michell Alejandro García Vargas**
 
-En este directorio podrás encontrar en diversos sub-directorios y archivos de las actividades de BackEnd-Mision para LaunchX del Weekly Mission 2.
+En este directorio podrás encontrar en diversos sub-directorios y archivos, de las actividades de BackEnd-Mision para Launch X de la Weekly Mission 2.
 
 En la semana 2 se trabajaron los temas:
 
 - Semana 2:
-    - 0 - Objetos:
+    - Objetos:
         1. Crear un objeto vacío
         2. Crear un objeto con propiedades
         3. Crear un objeto con propiedades diferentes
         4. Crear un objeto con métodos
         5. Crear un objeto que reciba parámetros
-    - 1 - Operadores:
+    - Operadores:
         1. Ejemplo For Each
         2. Ejemplo For Each
         3. Ejemplo For Each
@@ -30,7 +30,7 @@ En la semana 2 se trabajaron los temas:
         14. Ejemplo Some
         15. Ejemplo de Sort
         16. Ejemplo de Sort
-    - 2 - Clases y Objetos:
+    - Clases y Objetos:
         1. Crear clase vacía
         2. Instanciar objetos de una clase
         3. Instanciar Objeto con atributos
