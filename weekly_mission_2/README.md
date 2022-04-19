@@ -46,6 +46,8 @@ En la semana 2 se trabajaron los temas:
     - [example0](./example0/)
     - [example1](./example1/)
     - [example2](./example2/)
+    - [example4](./example4/)
+    - [example5](./example5/)
     - [exercises](./exercises/)
 
 ## Cualquier duda, recomendación o sugerencia es bienvenida, puedes contactarme sin problema a través de mis correos.
