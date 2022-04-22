@@ -16,7 +16,7 @@ En este directorio podrás encontrar en diversos sub-directorios y archivos, de 
 
 En la semana 3 se trabajaron los temas:
 
-### Semana 2:
+### Semana 3:
 1. Creación de proyectos de JS
 2. Test Driven Development
 3. Models, Services, Views
