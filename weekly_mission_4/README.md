@@ -14,8 +14,6 @@ Proyectos desarrollados en la semana 4:
 
 En este directorio podrás encontrar en diversos sub-directorios y archivos, de las actividades de BackEnd-Mision para Launch X de la Weekly Mission 4.
 
-En la semana 4 se trabajaron los temas:
-
 ### Semana 4:
 1. Refactoring to APIs
 2. Contribution Open Source
