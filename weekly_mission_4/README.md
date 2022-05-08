@@ -4,7 +4,7 @@ Proyectos desarrollados en la semana 4:
 
 | Proyecto | Práctica | Link al repo |
 | ------------- |:-------------:| -----:|
-|`fizzbuzz`|1, 2, 3|[Link al repo](https://github.com/AleGV258/FizzBuzz_Weekly_Mission_4)|
+|`fizzbuzz`|1, 2, 3|[Link al repo](https://github.com/AleGV258/FizzBuzz_API)|
 |`PR`|4|[Link al repo](https://github.com/AleGV258/fizzbuzz)|
 |`Code Challenge`|5|[Link al repo](https://github.com/AleGV258/VisualThinking_API)|
 |`Trello`|6|[Link al repo](https://github.com/AleGV258/trelloJS)|
