@@ -14,8 +14,6 @@ Proyectos desarrollados en la semana 3:
 
 En este directorio podrás encontrar en diversos sub-directorios y archivos, de las actividades de BackEnd-Mision para Launch X de la Weekly Mission 3.
 
-En la semana 3 se trabajaron los temas:
-
 ### Semana 3:
 1. Creación de proyectos de JS
 2. Test Driven Development
