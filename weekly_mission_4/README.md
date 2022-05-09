@@ -15,11 +15,11 @@ Proyectos desarrollados en la semana 4:
 En este directorio podrás encontrar en diversos sub-directorios y archivos, de las actividades de BackEnd-Mision para Launch X de la Weekly Mission 4.
 
 ### Semana 4:
-1. Refactoring to APIs
-2. Contribution Open Source
+1. Refactorizar APIs
+2. Contribution Open Source con pruebas automáticas de GitHub Actions
 3. Crear una API con endpoints en base a Controladores, Servicios y Utilidades
-4. Api Rest Trello
-5. Trello Js
+4. Visualizar una API Rest Trello
+5. Utilizar Trello JS
 
 ## Cualquier duda, recomendación o sugerencia es bienvenida, puedes contactarme sin problema a través de mis correos.
 
