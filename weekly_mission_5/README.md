@@ -13,7 +13,7 @@ Proyectos desarrollados en la semana 5:
 En este directorio podrás encontrar en diversos sub-directorios y archivos, de las actividades de BackEnd-Mision para Launch X de la Weekly Mission 5.
 
 ### Semana 5:
-1. Creación de un Bot de Telegram con una API
+1. Creación de un Bot de Telegram conectado con una API
 2. Utilizar PostgreSQL y hacer CRUD con Prisma DB
 3. Conectar una API con un modelo Cliente Servidor
 
