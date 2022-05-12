@@ -1,4 +1,4 @@
-# Launch X Node JS Playbook 🚀 de @AleGv258
+# Launch X Node JS Playbook 🚀 de @AleGV258
 
 <img width="1247" alt="image" src="https://user-images.githubusercontent.com/17634377/159151704-8949639b-ae5f-405a-a8b8-8d97f3f150cd.png">
 
@@ -29,4 +29,3 @@ Link del Repositorio: https://github.com/AleGV258/playbook
 	- [Semana 3](https://github.com/AleGV258/playbook/tree/main/weekly_mission_3)
 	- [Semana 4](https://github.com/AleGV258/playbook/tree/main/weekly_mission_4)
 	- [Semana 5](https://github.com/AleGV258/playbook/tree/main/weekly_mission_5)
-	- [Semana 6](https://github.com/AleGV258/playbook/tree/main/weekly_mission_6)
